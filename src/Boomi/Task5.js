@@ -51,7 +51,7 @@ function Task5() {
 
 
                     <Carousel>
-                    <Carousel.Item interval={500}>
+                    <Carousel.Item interval={1000}>
                     <img
                         className="d-block w-100"
                         src={Image6}  height={400}
@@ -62,6 +62,7 @@ function Task5() {
                         {/* <p>Nulla vitae elit libero, a pharetra augue mollis interdum.</p> */}
                     </Carousel.Caption>
                     </Carousel.Item>
+                    
                     <Carousel.Item interval={500}>
                     <img
                         className="d-block w-100"
@@ -73,7 +74,7 @@ function Task5() {
                         {/* <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p> */}
                     </Carousel.Caption>
                     </Carousel.Item>
-                    <Carousel.Item>
+                    <Carousel.Item interval={500}>
                     <img
                         className="d-block w-100"
                         src={Image3}  height={400}

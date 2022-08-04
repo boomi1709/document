@@ -1,18 +1,23 @@
 import React from 'react';
+
 import Container from 'react-bootstrap/Container';
 import Nav from 'react-bootstrap/Nav';
 import Navbar from 'react-bootstrap/Navbar';
 import NavDropdown from 'react-bootstrap/NavDropdown';
 import Carousel from 'react-bootstrap/Carousel';
+
 import Image1 from './image/Women-buying.jpg';
 import Image2 from './image/Selection men.jpg';
 import Image3 from './image/All in 1 mens.webp';
 import Image4 from './image/All in 1 mens.webp';
 import Image5 from './image/Men casual-look.jpeg';
 import Image6 from './image/collection.jpg';
+
 import Row from 'react-bootstrap/Row';
 import Col from 'react-bootstrap/Col';
+
 import Button from 'react-bootstrap/Button';
+
 import Card from 'react-bootstrap/Card';
 import Alert from 'react-bootstrap/Alert';
 
